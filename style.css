@@ -7,6 +7,9 @@
 a {
     cursor: pointer;
 }
+body::-webkit-scrollbar {
+    display: none;
+}
 /* navbar */
 .navbar {
     height: 60px;
